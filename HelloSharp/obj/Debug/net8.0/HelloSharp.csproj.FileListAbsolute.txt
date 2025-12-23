@@ -1,0 +1,14 @@
+/media/abrar-osmanli/Projects/c-sharp/HelloSharp/bin/Debug/net8.0/HelloSharp
+/media/abrar-osmanli/Projects/c-sharp/HelloSharp/bin/Debug/net8.0/HelloSharp.deps.json
+/media/abrar-osmanli/Projects/c-sharp/HelloSharp/bin/Debug/net8.0/HelloSharp.runtimeconfig.json
+/media/abrar-osmanli/Projects/c-sharp/HelloSharp/bin/Debug/net8.0/HelloSharp.dll
+/media/abrar-osmanli/Projects/c-sharp/HelloSharp/bin/Debug/net8.0/HelloSharp.pdb
+/media/abrar-osmanli/Projects/c-sharp/HelloSharp/obj/Debug/net8.0/HelloSharp.GeneratedMSBuildEditorConfig.editorconfig
+/media/abrar-osmanli/Projects/c-sharp/HelloSharp/obj/Debug/net8.0/HelloSharp.AssemblyInfoInputs.cache
+/media/abrar-osmanli/Projects/c-sharp/HelloSharp/obj/Debug/net8.0/HelloSharp.AssemblyInfo.cs
+/media/abrar-osmanli/Projects/c-sharp/HelloSharp/obj/Debug/net8.0/HelloSharp.csproj.CoreCompileInputs.cache
+/media/abrar-osmanli/Projects/c-sharp/HelloSharp/obj/Debug/net8.0/HelloSharp.dll
+/media/abrar-osmanli/Projects/c-sharp/HelloSharp/obj/Debug/net8.0/refint/HelloSharp.dll
+/media/abrar-osmanli/Projects/c-sharp/HelloSharp/obj/Debug/net8.0/HelloSharp.pdb
+/media/abrar-osmanli/Projects/c-sharp/HelloSharp/obj/Debug/net8.0/HelloSharp.genruntimeconfig.cache
+/media/abrar-osmanli/Projects/c-sharp/HelloSharp/obj/Debug/net8.0/ref/HelloSharp.dll
