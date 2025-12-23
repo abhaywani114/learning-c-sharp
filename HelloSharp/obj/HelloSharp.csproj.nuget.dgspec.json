@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/abrar-osmanli/Projects/c-sharp/HelloSharp/HelloSharp.csproj": {}
+    "/media/abrar-osmanli/Projects/c-sharp/learning-csharp/HelloSharp/HelloSharp.csproj": {}
   },
   "projects": {
-    "/media/abrar-osmanli/Projects/c-sharp/HelloSharp/HelloSharp.csproj": {
+    "/media/abrar-osmanli/Projects/c-sharp/learning-csharp/HelloSharp/HelloSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/abrar-osmanli/Projects/c-sharp/HelloSharp/HelloSharp.csproj",
+        "projectUniqueName": "/media/abrar-osmanli/Projects/c-sharp/learning-csharp/HelloSharp/HelloSharp.csproj",
         "projectName": "HelloSharp",
-        "projectPath": "/media/abrar-osmanli/Projects/c-sharp/HelloSharp/HelloSharp.csproj",
+        "projectPath": "/media/abrar-osmanli/Projects/c-sharp/learning-csharp/HelloSharp/HelloSharp.csproj",
         "packagesPath": "/home/abrar-osmanli/.nuget/packages/",
-        "outputPath": "/media/abrar-osmanli/Projects/c-sharp/HelloSharp/obj/",
+        "outputPath": "/media/abrar-osmanli/Projects/c-sharp/learning-csharp/HelloSharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/abrar-osmanli/.nuget/NuGet/NuGet.Config"
