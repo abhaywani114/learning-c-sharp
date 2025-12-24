@@ -1,0 +1,15 @@
+/media/abrar-osmanli/Projects/c-sharp/learning-csharp/WorkingWithArrays/bin/Debug/net8.0/WorkingWithArrays
+/media/abrar-osmanli/Projects/c-sharp/learning-csharp/WorkingWithArrays/bin/Debug/net8.0/WorkingWithArrays.deps.json
+/media/abrar-osmanli/Projects/c-sharp/learning-csharp/WorkingWithArrays/bin/Debug/net8.0/WorkingWithArrays.runtimeconfig.json
+/media/abrar-osmanli/Projects/c-sharp/learning-csharp/WorkingWithArrays/bin/Debug/net8.0/WorkingWithArrays.dll
+/media/abrar-osmanli/Projects/c-sharp/learning-csharp/WorkingWithArrays/bin/Debug/net8.0/WorkingWithArrays.pdb
+/media/abrar-osmanli/Projects/c-sharp/learning-csharp/WorkingWithArrays/obj/Debug/net8.0/WorkingWithArrays.GeneratedMSBuildEditorConfig.editorconfig
+/media/abrar-osmanli/Projects/c-sharp/learning-csharp/WorkingWithArrays/obj/Debug/net8.0/WorkingWithArrays.AssemblyInfoInputs.cache
+/media/abrar-osmanli/Projects/c-sharp/learning-csharp/WorkingWithArrays/obj/Debug/net8.0/WorkingWithArrays.AssemblyInfo.cs
+/media/abrar-osmanli/Projects/c-sharp/learning-csharp/WorkingWithArrays/obj/Debug/net8.0/WorkingWithArrays.csproj.CoreCompileInputs.cache
+/media/abrar-osmanli/Projects/c-sharp/learning-csharp/WorkingWithArrays/obj/Debug/net8.0/WorkingWithArrays.sourcelink.json
+/media/abrar-osmanli/Projects/c-sharp/learning-csharp/WorkingWithArrays/obj/Debug/net8.0/WorkingWithArrays.dll
+/media/abrar-osmanli/Projects/c-sharp/learning-csharp/WorkingWithArrays/obj/Debug/net8.0/refint/WorkingWithArrays.dll
+/media/abrar-osmanli/Projects/c-sharp/learning-csharp/WorkingWithArrays/obj/Debug/net8.0/WorkingWithArrays.pdb
+/media/abrar-osmanli/Projects/c-sharp/learning-csharp/WorkingWithArrays/obj/Debug/net8.0/WorkingWithArrays.genruntimeconfig.cache
+/media/abrar-osmanli/Projects/c-sharp/learning-csharp/WorkingWithArrays/obj/Debug/net8.0/ref/WorkingWithArrays.dll
